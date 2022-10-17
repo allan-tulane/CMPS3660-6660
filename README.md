@@ -16,13 +16,12 @@
 3. Classifier  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/knn_classifier.ipynb'>[KNN]</a>  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/Support%20Vector%20Machine%20From%20Scratch.ipynb'>[SVM]</a> 
 
 <h3>Fully-Connected Neural Networks</h3><br>
-1. Python from scratch https://github.com/allan-tulane/CMPS3660-6660/blob/main/Neural_Networks_Classification.ipynb <br>
-2. PyTorch https://github.com/allan-tulane/CMPS3660-6660/blob/main/FCN_MNIST_Classification_PyTorch.ipynb<br>
-
+1. Python from scratch  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/Neural_Networks_Classification.ipynb'>[Link]</a> <br>
+2. PyTorch  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/FCN_MNIST_Classification_PyTorch.ipynb'>[Link]</a> <br>
 
 <h3>Classic ConvNet Models</h3>
-1. LeNet: https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/LeNet.ipynb<br>
-2. AlexNet: https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/AlexNet.ipynb<br>
-3. VGGNet: https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/VGG.ipynb<br>
-4. ResNet: https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/ResNet.ipynb<br>
+1. LeNet: <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/LeNet.ipynb'>[Link]</a> <br>
+2. AlexNet: <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/AlexNet.ipynb'>[Link]</a><br>
+3. VGGNet: <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/VGG.ipynb'>[Link]</a><br>
+4. ResNet: <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/ResNet.ipynb'>[Link]</a><br>
 
