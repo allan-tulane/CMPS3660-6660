@@ -3,8 +3,9 @@
 <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/slides/Pytorch_Tutorial.pdf'> PyTorch Tutorial</a>
 
 <h3>Low-Level Image Processing</h3>
+  - <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/Image_Filtering.ipynb'> Image Filtering</a>
 
-https://github.com/allan-tulane/CMPS3660-6660/blob/main/Image_Filtering.ipynb
+
 
 https://github.com/allan-tulane/CMPS3660-6660/blob/main/Fourier_Transform.ipynb
 
