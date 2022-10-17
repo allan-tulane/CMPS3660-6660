@@ -2,7 +2,7 @@
 
 
 
-Bag-of-Words Classification
+<h3>Bag-of-Words Classification</h3>
 1. SIFT or other feature discriptors [https://github.com/allan-tulane/CMPS3660-6660/blob/main/SIFT_OpenCV.ipynb]
 2. Visual Words [Kmeans Clustering https://github.com/allan-tulane/CMPS3660-6660/blob/main/kmeans_from_scratch.ipynb]
 3. Classifier 
