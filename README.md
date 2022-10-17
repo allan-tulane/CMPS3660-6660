@@ -15,3 +15,11 @@ Bag-of-Words Classification
 Fully-Connected Neural Networks
 1. Python from scratch https://github.com/allan-tulane/CMPS3660-6660/blob/main/Neural_Networks_Classification.ipynb
 2. PyTorch https://github.com/allan-tulane/CMPS3660-6660/blob/main/FCN_MNIST_Classification_PyTorch.ipynb
+
+
+Classic ConvNet Models
+1. LeNet: https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/LeNet.ipynb
+2. AlexNet: https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/AlexNet.ipynb
+3. VGGNet: https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/VGG.ipynb
+4. ResNet: https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/ResNet.ipynb
+
