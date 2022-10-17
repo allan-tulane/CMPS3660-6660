@@ -1,7 +1,7 @@
 # CMPS3660-6660
 
 <h3>Low-Level Image Processing</h3>
-- 
+
 https://github.com/allan-tulane/CMPS3660-6660/blob/main/Image_Filtering.ipynb
 
 https://github.com/allan-tulane/CMPS3660-6660/blob/main/Fourier_Transform.ipynb
@@ -15,9 +15,9 @@ https://github.com/allan-tulane/CMPS3660-6660/blob/main/Image_Warping.ipynb
 https://github.com/allan-tulane/CMPS3660-6660/blob/main/Image_Stitching.ipynb
 
 <h3>Bag-of-Words Classification</h3>
-- 1. SIFT or other feature discriptors [https://github.com/allan-tulane/CMPS3660-6660/blob/main/SIFT_OpenCV.ipynb]
-- 2. Visual Words [Kmeans Clustering https://github.com/allan-tulane/CMPS3660-6660/blob/main/kmeans_from_scratch.ipynb]
-- 3. Classifier 
+1. SIFT or other feature discriptors [https://github.com/allan-tulane/CMPS3660-6660/blob/main/SIFT_OpenCV.ipynb]
+2. Visual Words [Kmeans Clustering https://github.com/allan-tulane/CMPS3660-6660/blob/main/kmeans_from_scratch.ipynb]
+3. Classifier 
 
   - 3.1 knn https://github.com/allan-tulane/CMPS3660-6660/blob/main/knn_classifier.ipynb
   
