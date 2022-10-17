@@ -1,5 +1,7 @@
 # CMPS3660-6660
 
+## PyTorch Tutorial https://github.com/allan-tulane/CMPS3660-6660/blob/main/slides/Pytorch_Tutorial.pdf 
+
 <h3>Low-Level Image Processing</h3>
 
 https://github.com/allan-tulane/CMPS3660-6660/blob/main/Image_Filtering.ipynb
