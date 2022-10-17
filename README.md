@@ -15,7 +15,6 @@
 2. Visual Words [Kmeans Clustering]  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/kmeans_from_scratch.ipynb'>[Link]</a> <br>
 3. Classifier  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/knn_classifier.ipynb'>[KNN]</a>  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/Support%20Vector%20Machine%20From%20Scratch.ipynb'>[SVM]</a> 
 
-
 <h3>Fully-Connected Neural Networks</h3><br>
 1. Python from scratch https://github.com/allan-tulane/CMPS3660-6660/blob/main/Neural_Networks_Classification.ipynb <br>
 2. PyTorch https://github.com/allan-tulane/CMPS3660-6660/blob/main/FCN_MNIST_Classification_PyTorch.ipynb<br>
