@@ -7,9 +7,9 @@ Bag-of-Words Classification
 2. Visual Words [Kmeans Clustering https://github.com/allan-tulane/CMPS3660-6660/blob/main/kmeans_from_scratch.ipynb]
 3. Classifier 
 
-  3.1 knn https://github.com/allan-tulane/CMPS3660-6660/blob/main/knn_classifier.ipynb
+  - 3.1 knn https://github.com/allan-tulane/CMPS3660-6660/blob/main/knn_classifier.ipynb
   
-  3.2 svm https://github.com/allan-tulane/CMPS3660-6660/blob/main/Support%20Vector%20Machine%20From%20Scratch.ipynb
+  - 3.2 svm https://github.com/allan-tulane/CMPS3660-6660/blob/main/Support%20Vector%20Machine%20From%20Scratch.ipynb
 
 
 Fully-Connected Neural Networks
