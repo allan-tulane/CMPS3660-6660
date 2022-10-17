@@ -11,13 +11,9 @@
   - <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/Image_Stitching.ipynb'>Image Stitching</a>
 
 <h3>Bag-of-Words Classification</h3><br>
-1. SIFT or other feature discriptors [https://github.com/allan-tulane/CMPS3660-6660/blob/main/SIFT_OpenCV.ipynb] <br>
-2. Visual Words [Kmeans Clustering https://github.com/allan-tulane/CMPS3660-6660/blob/main/kmeans_from_scratch.ipynb] <br>
-3. Classifier <br>
-
-  - 3.1 knn https://github.com/allan-tulane/CMPS3660-6660/blob/main/knn_classifier.ipynb
-  
-  - 3.2 svm https://github.com/allan-tulane/CMPS3660-6660/blob/main/Support%20Vector%20Machine%20From%20Scratch.ipynb
+1. SIFT or other feature discriptors  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/SIFT_OpenCV.ipynb'>[Link]</a> <br>
+2. Visual Words [Kmeans Clustering]  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/kmeans_from_scratch.ipynb'>[Link]</a> <br>
+3. Classifier  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/knn_classifier.ipynb'>[KNN]</a>  <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/Support%20Vector%20Machine%20From%20Scratch.ipynb'>[SVM]</a> 
 
 
 <h3>Fully-Connected Neural Networks</h3><br>
