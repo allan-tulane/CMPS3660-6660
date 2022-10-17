@@ -1,7 +1,7 @@
 # CMPS3660-6660
 
-<a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/slides/Pytorch_Tutorial.pdf'> PyTorch Tutorial</a>
-<a href = 'https://poloclub.github.io/cnn-explainer/'>CNN Explainer</a>
+  - <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/slides/Pytorch_Tutorial.pdf'> PyTorch Tutorial</a>
+  - <a href = 'https://poloclub.github.io/cnn-explainer/'>CNN Explainer</a>
 
 <h3>Low-Level Image Processing [click the link]</h3>
   - <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/Image_Filtering.ipynb'>Image Filtering</a>
