@@ -26,3 +26,5 @@
 3. VGGNet: <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/VGG.ipynb'>[Link]</a><br>
 4. ResNet: <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/ConvNet_Models/ResNet.ipynb'>[Link]</a><br>
 
+<h3>Object Detection Models</h3>
+1. Fast RCNN: <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/fast_rcnn_demo.ipynb'>[Link]</a> <br>
