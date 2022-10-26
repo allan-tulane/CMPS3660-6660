@@ -28,3 +28,6 @@
 
 <h3>Object Detection Models</h3>
 1. Fast RCNN: <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/fast_rcnn_demo.ipynb'>[Link]</a> <br>
+
+<h3>Instance Segmentation Models</h3>
+1. Mask RCNN: <a href ='https://github.com/allan-tulane/CMPS3660-6660/blob/main/Mask_RCNN.ipynb'>[Link]</a> <br>
